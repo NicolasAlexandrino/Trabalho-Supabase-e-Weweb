@@ -45,7 +45,7 @@ Acesse o projeto e os schemas no Supabase:
 
 📎 Link para o vídeo: *([vídeo no Driver Weweb e Lovable](https://drive.google.com/file/d/1TkRwoC2di4kuVPyF_m8XCNydVzi9OBwU/view?usp=drive_link)*
 
-📎 Link para o vídeo: *([vídeo no Driver Weweb e Lovable](https://drive.google.com/file/d/12CM0WwkES4sjSpMWe_bG5fkbkdU43GWO/view?usp=drive_link)*
+📎 Link para o vídeo: *([vídeo no Driver Weweb](https://drive.google.com/file/d/12CM0WwkES4sjSpMWe_bG5fkbkdU43GWO/view?usp=drive_link)*
 
 ## 🚀 Deploy e Execução
 
