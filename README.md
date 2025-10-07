@@ -5,7 +5,7 @@
 Este projeto é o resultado do desafio de desenvolver uma aplicação web completa utilizando:
 
 * **Supabase** como **Back-end** e **Banco de Dados**.
-* **WeWeb** como **Front-end** para interação com os dados.
+* **WeWeb e Lovable** como **Front-end** para interação com os dados.
   
 ## 🗄️ Modelo Lógico do Banco de Dados
 
