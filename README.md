@@ -28,7 +28,8 @@ A aplicação WeWeb está conectada ao Supabase e implementa:
 <img width="1891" height="939" alt="image" src="https://github.com/user-attachments/assets/1232ac9e-6879-457a-9c64-b7868d903c51" />
 
 🔗 **Link para o deploy**: [Clique aqui para acessar a aplicação publicada](https://editor.weweb.io/ac935459-29d7-4396-8af8-d52515df63ec)
-🔗 **Link para o deploy**: [Clique aqui para acessar a aplicação publicada]([https://editor.weweb.io/ac935459-29d7-4396-8af8-d52515df63ec](https://lovable.dev/projects/e1ab7ebb-5ae8-432c-9f44-e737793215fe))
+
+🔗 **Link para o deploy**: [Clique aqui para acessar a aplicação publicada](https://lovable.dev/projects/e1ab7ebb-5ae8-432c-9f44-e737793215fe)
 
 ## 🔗 Banco de Dados no Supabase
 
