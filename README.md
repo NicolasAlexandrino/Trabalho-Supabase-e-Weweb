@@ -43,7 +43,9 @@ Acesse o projeto e os schemas no Supabase:
 2. As telas desenvolvidas no WeWeb.
 3. O fluxo principal da aplicação.
 
-📎 Link para o vídeo: *([vídeo no YouTube](https://youtu.be/-o8vLjKaK7c))*
+📎 Link para o vídeo: *([vídeo no Driver Weweb e Lovable](https://drive.google.com/file/d/1TkRwoC2di4kuVPyF_m8XCNydVzi9OBwU/view?usp=drive_link)*
+
+📎 Link para o vídeo: *([vídeo no Driver Weweb e Lovable](https://drive.google.com/file/d/12CM0WwkES4sjSpMWe_bG5fkbkdU43GWO/view?usp=drive_link)*
 
 ## 🚀 Deploy e Execução
 
@@ -52,11 +54,10 @@ Acesse o projeto e os schemas no Supabase:
    * Criado no Supabase.
    * Inclui tabelas normalizadas, view e função.
 
-2. **Front-end (WeWeb)**:
+2. **Front-end (WeWeb e Lovable)**:
 
    * Integração com Supabase via API.
    * CRUD implementado.
-   * Publicado online para acesso público.
 
 ## 👨‍💻 Autor
 
