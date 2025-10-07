@@ -34,7 +34,7 @@ A aplicação WeWeb está conectada ao Supabase e implementa:
 ## 🔗 Banco de Dados no Supabase
 
 Acesse o projeto e os schemas no Supabase:
-👉 [Supabase Dashboard]([https://supabase.com/dashboard/project/wwtbyetzcqgilenshpwa/database/schemas](https://supabase.com/dashboard/project/wwtbyetzcqgilenshpwa/editor/18477?loadFromCache=true))
+👉 [Supabase Dashboard](https://supabase.com/dashboard/project/wwtbyetzcqgilenshpwa/editor/18477?loadFromCache=true)
 
 
 ## 🎥 Vídeo de Apresentação
