@@ -25,6 +25,7 @@ A aplicação WeWeb está conectada ao Supabase e implementa:
 
 * 📷  **print das telas** da aplicação.
 <img width="1617" height="860" alt="Captura de tela 2025-10-02 013728" src="https://github.com/user-attachments/assets/697a7dba-dbd9-4325-8544-90d198f339cc" />
+<img width="1891" height="939" alt="image" src="https://github.com/user-attachments/assets/1232ac9e-6879-457a-9c64-b7868d903c51" />
 
 🔗 **Link para o deploy**: [Clique aqui para acessar a aplicação publicada](https://editor.weweb.io/ac935459-29d7-4396-8af8-d52515df63ec)
 
